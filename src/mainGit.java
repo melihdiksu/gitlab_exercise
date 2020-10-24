@@ -6,4 +6,5 @@ public class mainGit {
     System.out.println("This is the first branch alteration 0.4");
     System.out.println("branching 1");
     System.out.println("branching 2");
+    System.out.println("branching 3");
 }
